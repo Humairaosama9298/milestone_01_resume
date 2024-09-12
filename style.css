@@ -40,14 +40,14 @@ body {
 @media only screen and (max-width: 768px) {
   .container {
     flex-direction: column;
-    width: 90%;
+    width: 80%;
   }
   .left-section {
-    width: 100%;
+    width: 80%;
     border-right: none;
   }
   .right-section {
-    width: 100%;
+    width: 80%;
   }
   .profile-picture {
     margin: 5%;
@@ -56,13 +56,13 @@ body {
 
 @media only screen and (max-width: 480px) {
   .container {
-    padding: 20px;
+    padding: 15px;
   }
   .left-section {
-    padding: 20px;
+    padding: 15px;
   }
   .right-section {
-    padding: 20px;
+    padding: 15px;
   }
   .profile-picture {
     width: 150px;
