@@ -21,6 +21,7 @@ body {
   padding: 30px;
   width: 35%;
   border-right: 5px solid #dfa83a;
+  box-shadow: 0 0 15px;
 }
 .right-section {
   padding: 30px;
@@ -61,11 +62,12 @@ body {
     padding: 15px;
   }
   .right-section {
-    padding: 15px;
+    padding: 20px;
   }
   .profile-picture {
     width: 150px;
     height: 150px;
+    padding: 20%;
   }
 }
 
